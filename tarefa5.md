@@ -8,7 +8,7 @@
     
   * __Direito ao sigilo__: No Brasil, o direito de sigilo no processo judicial significa que, em regra, os atos processuais são públicos, mas alguns processos são conduzidos em segredo de justiça. Isso restringe o acesso aos dados do processo às partes envolvidas e seus advogados. O Código de Processo Civil estabelece situações específicas em que o segredo de justiça é obrigatório e também permite sua decretação em casos de interesse público. (https://www.tjdft.jus.br/institucional/imprensa/campanhas-e-produtos/direito-facil/edicao-semanal/segredo-de-justica-e-sigilo)
     
-  * __Direito de igualdade__:
+  * __Direito de igualdade__: O princípio da igualdade está fundamentado no art. 5º, caput da Constituição Federal, que estabelece a equidade entre todos os cidadãos em relação aos seus direitos e deveres. Esse princípio garante condições materiais essenciais para o pleno exercício dos direitos, diferentemente dos direitos à liberdade, que se concretizam por meio de atuação estatal para reduzir desigualdades sociais, podendo exigir altos custos e um longo prazo para sua efetivação. (https://www.jusbrasil.com.br/artigos/direito-a-igualdade/755328200)
     
   * __Direito à segurança__:
     
