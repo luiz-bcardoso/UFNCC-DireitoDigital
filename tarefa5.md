@@ -6,7 +6,7 @@
     
   * __Direito à informação__: A Lei de Acesso à Informação (LAI), Lei nº 12.527/2011, garante o direito de solicitar e obter informações de órgãos e entidades públicas, disponível a qualquer pessoa, empresa ou organização, sem necessidade de justificar o pedido. As informações são fornecidas gratuitamente, salvo custos de reprodução. Promulgada em novembro de 2011 e em vigor desde maio de 2012, a LAI foi regulamentada pelo Decreto nº 7.724/2012 no Poder Executivo Federal. (https://www.gov.br/acessoainformacao/pt-br/assuntos/conheca-seu-direito)
     
-  * __Direito ao sigilo__:
+  * __Direito ao sigilo__: No Brasil, o direito de sigilo no processo judicial significa que, em regra, os atos processuais são públicos, mas alguns processos são conduzidos em segredo de justiça. Isso restringe o acesso aos dados do processo às partes envolvidas e seus advogados. O Código de Processo Civil estabelece situações específicas em que o segredo de justiça é obrigatório e também permite sua decretação em casos de interesse público. (https://www.tjdft.jus.br/institucional/imprensa/campanhas-e-produtos/direito-facil/edicao-semanal/segredo-de-justica-e-sigilo)
     
   * __Direito de igualdade__:
     
