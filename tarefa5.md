@@ -10,5 +10,5 @@
     
   * __Direito de igualdade__: O princípio da igualdade está fundamentado no art. 5º, caput da Constituição Federal, que estabelece a equidade entre todos os cidadãos em relação aos seus direitos e deveres. Esse princípio garante condições materiais essenciais para o pleno exercício dos direitos, diferentemente dos direitos à liberdade, que se concretizam por meio de atuação estatal para reduzir desigualdades sociais, podendo exigir altos custos e um longo prazo para sua efetivação. (https://www.jusbrasil.com.br/artigos/direito-a-igualdade/755328200)
     
-  * __Direito à segurança__:
+  * __Direito à segurança__: O art. 144 da Constituição Federal define a segurança pública como um dever do Estado e uma responsabilidade de todos, visando a preservação da ordem pública e a proteção das pessoas e do patrimônio. A partir disso, pode-se concluir que: a) no art. 5º, segurança refere-se à proteção individual, conforme a segurança jurídica; b) segurança pública é um direito coletivo da sociedade, não um direito individual; c) a efetivação da segurança pública envolve não apenas agentes públicos, mas também a colaboração de todos os cidadãos. (https://www.jusbrasil.com.br/artigos/seguranca-publica-um-dever-de-todos/414678221)
     
