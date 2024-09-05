@@ -34,8 +34,13 @@ Esta checklist ajuda a garantir que a empresa cumpra todos os requisitos de conf
 - **Atualizações e Gestão de Patches:** Instale patches de segurança e atualizações regulares para todos os sistemas de segurança.
 ---
 ## Pesquisa (Porque fazer)
+>Os colaboradores não podem ser responsabilizados por regras pelas quais eles não foram notificados ou sequer sabem que existem.
+
+A adoção de tecnologias de computação em nuvem e programas eficazes é crucial para melhorar a comunicação entre liderança e equipes. É importante incluir procedimentos para criar, atualizar, distribuir e rastrear políticas de conformidade, que são centrais na operação de um profissional da área.[3]
 
 ---
 >1. https://centric.com.br/blog/compliance-na-ti/
 
 >2. https://www.designrush.com/agency/it-services/trends/it-compliance
+
+>3. https://santodigital.com.br/compliance-em-ti/ 
