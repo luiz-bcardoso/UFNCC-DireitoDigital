@@ -38,9 +38,14 @@ Esta checklist ajuda a garantir que a empresa cumpra todos os requisitos de conf
 
 A adoção de tecnologias de computação em nuvem e programas eficazes é crucial para melhorar a comunicação entre liderança e equipes. É importante incluir procedimentos para criar, atualizar, distribuir e rastrear políticas de conformidade, que são centrais na operação de um profissional da área.[3]
 
+>A Lei Geral de Proteção de Dados (LGPD)
+
+Qualquer empresa ou entidade que realiza cadastros com nome ou um documento de um cidadão, seja ele feito pela internet ou não, precisa seguir a LGPD, até mesmo órgãos ligados ao governo. 
+
+Caso haja descomprimento, pode envover sanações, incluindo advertência, publicidade da infração, multa simples de até 2% do faturamento da empresa, limitada a R$ 50 milhões por infração, multa diária, bloqueio dos dados pessoais referentes à infração, eliminação dos dados pessoais referentes à infração, suspensão do exercício da atividade de tratamento dos dados pessoais referentes à infração e proibição parcial ou total do exercício de atividades relacionadas ao tratamento de dados.[4]
+
 ---
 >1. https://centric.com.br/blog/compliance-na-ti/
-
 >2. https://www.designrush.com/agency/it-services/trends/it-compliance
-
 >3. https://santodigital.com.br/compliance-em-ti/ 
+>4. https://g1.globo.com/economia/tecnologia/noticia/2021/08/01/descumprir-a-lei-geral-de-protecao-de-dados-pode-gerar-punicoes-a-partir-deste-domingo.ghtml
